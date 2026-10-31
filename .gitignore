@@ -6,3 +6,8 @@ local.properties
 .idea/
 *.iml
 dist/
+node_modules/
+.clasp.json
+.clasprc.json
+# 진단 기록 (실제 카톡 메시지 포함)
+*.jsonl

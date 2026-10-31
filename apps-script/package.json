@@ -1,0 +1,8 @@
+{
+  "name": "biztalk4beyoundit-apps-script",
+  "private": true,
+  "description": "카톡 비즈니스 메시지 수집 서버 (Google Apps Script)",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
