@@ -9,8 +9,8 @@ BeyondIT를 위한 비지니스 카카오톡 관리
 | 경로 | 내용 | 상태 |
 | --- | --- | --- |
 | `diag-app/` | 0단계 진단 앱. 카톡 알림의 데이터 구조를 기록한다 | 완료, 선배님 폰 테스트 중 |
-| `apps-script/` | 시트 기록, Gemini 분류, 생존 감시. 설치 방법은 `apps-script/README.md` | 1단계 진행 중 |
-| `android-app/` | 정식 수집 앱 | 2단계 |
+| `apps-script/` | 시트 기록, Gemini 분류, 생존 감시. 설치 방법은 `apps-script/README.md` | 완료, 실제 설치 확인 전 |
+| `android-app/` | 정식 수집 앱. 구조와 빌드 방법은 `android-app/README.md` | 2단계 진행 중 |
 
 ## 진단 앱 설치 파일
 
