@@ -12,6 +12,13 @@ BeyondIT를 위한 비지니스 카카오톡 관리
 | `apps-script/` | 시트 기록, Gemini 분류, 생존 감시 | 1단계 |
 | `android-app/` | 정식 수집 앱 | 2단계 |
 
+## 진단 앱 설치 파일
+
+`apk/kakao-noti-diag-0.1.apk`를 안드로이드 기기나 에뮬레이터의 브라우저에서 내려받아 설치한다.
+
+- 내려받기: https://github.com/erpsarang/Biztalk4BeyoundIT/raw/main/apk/kakao-noti-diag-0.1.apk
+- SHA-256: `6312176e6fa8de75c6dc8e5f208b7a4283335378568117090feeb581eea2962c`
+
 ## 진단 앱 빌드
 
 JDK 17 이상과 Android SDK(platform 35)가 필요하다.
